@@ -1,0 +1,11 @@
+# MIT Course Chatbot dependencies
+
+# Scraper (data/scraper.py) — stdlib only, no extra packages needed
+
+# Retrieval (retrieval/indexer.py + retrieval/search.py)
+sentence-transformers>=2.2.2
+faiss-cpu>=1.7.4
+numpy>=1.24
+
+# Chatbot (future steps)
+# anthropic>=0.25.0
