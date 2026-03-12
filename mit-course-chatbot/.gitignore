@@ -1,0 +1,16 @@
+# Generated data files — rebuild locally by running the scripts
+data/courses.json
+data/courses_meta.json
+data/index.faiss
+data/embeddings.npy
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
